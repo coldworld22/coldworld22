@@ -1,69 +1,61 @@
-# Ayman Osman — Senior Backend Engineer
+# Ayman Osman
 
+Senior Backend Engineer | AWS Certified Developer
 
-## 👨‍💻 About Me
-Senior Software Engineer with 7+ years building scalable backend systems, ERP platforms, and secure integrations across government and enterprise environments in Saudi Arabia.
+## 🚀 About Me
 
-- 100K+ active users systems
-- 500K+ monthly API requests
-- Focus on performance, security, and scalability
+Backend-focused engineer with 7+ years building scalable systems, APIs, and enterprise integrations.
 
----
+* Designed systems handling 500,000+ monthly API requests
+* Built government platforms with 100,000+ users
+* متخصص في REST APIs, microservices, secure integrations
 
-## 🚀 What I Do
-- Design scalable backend architectures (microservices, event-driven)
-- Build secure APIs (JWT, OAuth2, RBAC, OTP)
-- Optimize databases (PostgreSQL, MySQL, MongoDB)
-- Integrate enterprise systems (ERP, payment, messaging APIs)
+## 🧠 Core Expertise
 
----
+* Backend: Node.js, .NET Core, Java (Spring Boot)
+* Databases: PostgreSQL, MySQL, MongoDB, Redis
+* Cloud: AWS, Docker, CI/CD
+* Architecture: Microservices, API Design, System Integration
 
-## 🧠 Tech Stack
-**Backend:** Node.js, .NET Core, Java (Spring Boot), Laravel  
-**Frontend:** React, Next.js, Angular  
-**Database:** PostgreSQL, MySQL, MongoDB, Redis  
-**DevOps:** Docker, AWS, Azure, CI/CD  
+## 🔥 Featured Projects
 
----
+### 🧩 SkillBridge (AI LMS Platform)
 
-## 🏗️ Key Projects
+* Full-stack platform (Next.js + Node.js + PostgreSQL)
+* Integrated payments (Stripe, PayPal)
+* Real-time systems + scalable backend
 
-### 🔹 SkillBridge — AI Learning Platform
-- Full-stack LMS with AI features
-- Built with Next.js + Node.js + PostgreSQL + Docker
-- Integrated payments (Stripe, PayPal) and WhatsApp API
+🔗 https://eduskillbridge.net
+🔗 https://github.com/coldworld22/Skillbridge
 
 ---
 
-### 🔹 Odoo WhatsApp Cloud Integration
-- Automated messaging system for ERP workflows
-- Supports invoices, notifications, campaigns
-- Built using Python, REST APIs, PostgreSQL
+### 📦 Odoo WhatsApp Integration (Published App)
+
+* Automated messaging system for sales & invoices
+* Meta Cloud API integration
+* Used in production by real businesses
+
+🔗 https://apps.odoo.com/apps/modules/18.0/skillbridge_whatsapp_cloud
 
 ---
 
-### 🔹 (Coming Soon) Scalable Booking System
-- Distributed system with queue-based notifications
-- Redis caching + background jobs
-- Designed for high concurrency
+## 🛠 Open Source Contributions
+
+* Fixed JSON parsing issue (BOM handling) in json-server
+* Contributed features to Spring PetClinic
+
+👉 Shows ability to work on production-grade codebases
 
 ---
 
-## ⚙️ Engineering Focus
-- System Design & Scalability
-- High-performance APIs
-- Distributed systems & queues
-- Database optimization
-- Secure architecture
+## 📜 Certifications
+
+* AWS Certified Developer – Associate
 
 ---
 
-## 📈 Impact
-- Reduced API latency in production systems
-- Designed high-throughput backend services
-- Improved database performance with indexing strategies
+## 📫 Contact
 
----
-
-## 🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/ayman-osman-27bb4bb1
+* LinkedIn: https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ayman-osman-27bb4bb1/
+* Email: ayman4work44@gmail.com
