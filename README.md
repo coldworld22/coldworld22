@@ -146,7 +146,7 @@ Interested in contributing to:
 
 # 📌 Featured Projects
 
-## 🤖 AI Assistant Platform
+##  AI Assistant Platform
 
 Production-ready AI assistant supporting multiple LLM providers with:
 
@@ -209,9 +209,9 @@ Enterprise-grade backend services featuring:
 
 # 🤝 Let's Connect
 
-- LinkedIn
-- Portfolio
-- Email
+- [LinkedIn](https://www.linkedin.com/in/ayman-osman-27bb4bb1/)
+- [Portfolio](https://github.com/coldworld22)
+- ayman4work44@gmail.com
 
 Always open to discussing:
 
