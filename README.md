@@ -23,7 +23,7 @@ Most of my professional work (Asir government portals, ERP systems) lives in pri
 
 ### Currently
 
-- Contributing to [Accord Project](https://github.com/accordproject/template-playground) — first PR open (#947)
+- Open source: merged [PR #169](https://github.com/accordproject/template-engine/pull/169) to Accord Project template-engine (regression tests); [PR #947](https://github.com/accordproject/template-playground/pull/947) under review
 - Learning: system design, Kafka
 
 📫 ayman4work44@gmail.com
