@@ -1,221 +1,29 @@
-# Hi, I'm Ayman Osman 👋
+## Ayman Osman — Full Stack Engineer (Node.js / TypeScript · Angular)
 
-<p align="left">
-Senior Backend Engineer • Cloud Engineer • AI Engineer
-</p>
+I build and run web systems for government and business users in Saudi Arabia.
+For nearly three years I worked on-site with the **Emirate of Asir**, building Angular portals and
+Node.js/Express APIs used by 100,000+ citizens (~500K API requests a month).
 
-Backend engineer with 7+ years of experience designing scalable distributed systems, cloud-native applications, enterprise APIs, and AI-powered platforms.
+📍 Riyadh, Saudi Arabia · Open to backend / full stack roles · [LinkedIn](https://www.linkedin.com/in/ayman-osman-27bb4bb1)
 
-I enjoy solving complex backend problems, contributing to open source, and building production-ready software using modern cloud technologies.
+### What I work with
 
----
+**Daily:** TypeScript, Node.js (Express, NestJS), Angular, React/Next.js, PostgreSQL, MongoDB, Redis, Docker, GitHub Actions
+**Also:** Laravel, C#/ASP.NET, Odoo, Python/Django
 
-## 🚀 What I Do
+### Projects worth looking at
 
-- Design scalable backend architectures
-- Build REST & GraphQL APIs
-- Develop AI-powered applications using LLMs
-- Design Retrieval-Augmented Generation (RAG) systems
-- Build AI Agents & MCP-based applications
-- Create cloud-native infrastructure on AWS
-- Design event-driven microservices
-- Optimize application performance
-- Automate deployments using CI/CD
-- Infrastructure as Code using Terraform
-- Mentor developers and review architecture
+| Project | What it is | Stack |
+|---|---|---|
+| [Cognexa](https://github.com/coldworld22/Cognexa-security-ai-lab) | Self-hosted AI assistant with RAG, role-based access and audit logs | Express 5, TypeScript, Next.js, pgvector, Redis, Docker |
+| [EduSkillBridge](https://github.com/coldworld22/Skillbridge) | Education platform: classes, tutorials, marketplace, multi-role dashboards | Node.js, Next.js, PostgreSQL, Docker |
+| [Odoo WhatsApp integration](https://github.com/coldworld22/odoo-whatsapp-integration) | Odoo module for WhatsApp Business (Meta Cloud API) | Python, Odoo |
 
----
+Most of my professional work (Asir government portals, ERP systems) lives in private client repositories.
 
-# 💼 Core Skills
+### Currently
 
-### Backend
+- Contributing to [Accord Project](https://github.com/accordproject/template-playground) — first PR open (#947)
+- Learning: system design, Kafka
 
-- TypeScript
-- Node.js
-- NestJS
-- Express.js
-- Java
-- Spring Boot
-- Python
-- FastAPI
-- Django
-- C#
-- ASP.NET Core
-- REST APIs
-- GraphQL
-- gRPC
-- WebSockets
-
----
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- SQL Server
-- MongoDB
-- Redis
-
----
-
-### Cloud
-
-- AWS
-- EC2
-- ECS
-- Lambda
-- API Gateway
-- CloudWatch
-- S3
-- IAM
-- Docker
-- Kubernetes
-- Terraform
-
----
-
-### AI Engineering
-
-- OpenAI API
-- Anthropic Claude
-- Gemini
-- Ollama
-- LangChain
-- LangGraph
-- MCP
-- RAG
-- AI Agents
-- Prompt Engineering
-- Embeddings
-- Vector Databases
-- pgvector
-- ChromaDB
-- Pinecone
-
----
-
-### DevOps
-
-- GitHub Actions
-- Azure DevOps
-- Jenkins
-- Docker Compose
-- Nginx
-- Linux
-- Bash
-
----
-
-### Software Architecture
-
-- Microservices
-- Event-Driven Architecture
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- SOLID Principles
-- CQRS
-- Design Patterns
-
----
-
-# 🏆 Certifications
-
-✅ AWS Certified Developer – Associate
-
-✅ HashiCorp Terraform Associate
-
----
-
-# 🌍 Open Source
-
-Contributor to:
-
-- Accord Project Template Engine
-- Accord Project Template Playground
-
-Interested in contributing to:
-
-- Kubernetes
-- OpenTelemetry
-- LangChain
-- Spring AI
-- OpenAI SDK
-- Terraform Providers
-
----
-
-# 📌 Featured Projects
-
-##  AI Assistant Platform
-
-Production-ready AI assistant supporting multiple LLM providers with:
-
-- RAG
-- MCP
-- Tool Calling
-- AI Agents
-- Vector Search
-- Authentication
-- Streaming Responses
-
-**Tech**
-
-Node.js • TypeScript • PostgreSQL • Redis • Docker
-
----
-
-## ☁ Cloud Infrastructure
-
-Infrastructure as Code for production environments using:
-
-- Terraform
-- AWS
-- Docker
-- GitHub Actions
-
----
-
-## 🏛 Enterprise Backend Systems
-
-Enterprise-grade backend services featuring:
-
-- JWT Authentication
-- RBAC
-- Multi-tenancy
-- Audit Logging
-- Background Jobs
-- API Integrations
-
----
-
-# 📊 GitHub Stats
-
-<!-- GitHub Readme Stats -->
-
----
-
-# 📚 Currently Learning
-
-- Agentic AI
-- MCP Ecosystem
-- LangGraph
-- Kubernetes
-- System Design
-- Distributed Systems
-- Event Streaming
-- Apache Kafka
-
----
-
-# 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/ayman-osman-27bb4bb1/)
-- [Portfolio](https://github.com/coldworld22)
-- ayman4work44@gmail.com
-
-Always open to discussing:
-
-- Backend Engineering
-- Cloud Architecture
-- AI Engineering
-- Open Source
+📫 ayman4work44@gmail.com
