@@ -34,6 +34,7 @@ I build REST APIs and integrations for Saudi government and enterprise platforms
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Citizen Services API](https://github.com/coldworld22/citizen-services-api) | Government e-services backend: OTP sign-in, role-based access, request workflow, audit trail, AWS deployment | Java 21, Spring Boot 3, PostgreSQL, Testcontainers, Docker, Terraform (ECS, RDS) |
 | [Cognexa](https://github.com/coldworld22/Cognexa-security-ai-lab) | Self-hosted AI workspace with RAG, role-based access and audit logs | TypeScript, Express, Next.js, pgvector, Redis, Docker |
 | [SkillBridge](https://github.com/coldworld22/Skillbridge) | Multi-tenant learning and commerce platform: classes, subscriptions, payments, messaging | Node.js, Express, Next.js, PostgreSQL, Redis, Docker |
 | [WhatsApp for Odoo](https://github.com/coldworld22/odoo-whatsapp-integration) | Published Odoo app for WhatsApp Business: invoices, campaigns, inbox, delivery tracking | Python, Odoo, Meta Cloud API |
