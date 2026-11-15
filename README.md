@@ -1,29 +1,46 @@
-## Ayman Osman — Full Stack Engineer (Node.js / TypeScript · Angular)
+## Ayman Osman — Senior Backend Engineer
 
-I build and run web systems for government and business users in Saudi Arabia.
-For nearly three years I worked on-site with the **Emirate of Asir**, building Angular portals and
-Node.js/Express APIs used by 100,000+ citizens (~500K API requests a month).
+**Java / Spring Boot · Node.js / TypeScript · Cloud (AWS · Azure · GCP)**
 
-📍 Riyadh, Saudi Arabia · Open to backend / full stack roles · [LinkedIn](https://www.linkedin.com/in/ayman-osman-27bb4bb1)
+I build REST APIs and integrations for Saudi government and enterprise platforms. For the Emirate of Asir I built and ran backend services behind citizen and employee portals used by **100,000+ people** (about **500K API requests a month**), with Nafath, OTP and Active Directory sign-in and role-based access.
+
+📍 Riyadh, Saudi Arabia · Transferable Iqama · Available immediately · [LinkedIn](https://www.linkedin.com/in/ayman-osman-27bb4bb1)
 
 ### What I work with
 
-**Daily:** TypeScript, Node.js (Express, NestJS), Angular, React/Next.js, PostgreSQL, MongoDB, Redis, Docker, GitHub Actions
-**Also:** Laravel, C#/ASP.NET, Odoo, Python/Django
+| | |
+|---|---|
+| **Backend** | Java 21, Spring Boot, Node.js, Express, TypeScript, REST, WebSockets |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, pgvector, query tuning, data modelling |
+| **Security & identity** | JWT, RBAC, OAuth / OTP, Nafath, Active Directory, OWASP Top 10 |
+| **Cloud & DevOps** | Docker, Terraform, GitHub Actions, Nginx, Linux, AWS, Azure, Google Cloud |
+| **Integrations** | Odoo ERP, Stripe, PayPal, WhatsApp Cloud API, webhooks, multi-tenant SaaS |
 
-### Projects worth looking at
+### Certifications
+
+![AWS](https://img.shields.io/badge/AWS%20Certified%20Developer-Associate-FF9900?logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Cloud%20Developer-0078D4?logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?logo=terraform&logoColor=white)
+
+- AWS Certified Developer – Associate (DVA-C02)
+- Microsoft Certified: Azure AI Cloud Developer Associate
+- Google Cloud Certified: Associate Cloud Engineer
+- HashiCorp Certified: Terraform Associate (004)
+
+### Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Cognexa](https://github.com/coldworld22/Cognexa-security-ai-lab) | Self-hosted AI assistant with RAG, role-based access and audit logs | Express 5, TypeScript, Next.js, pgvector, Redis, Docker |
-| [EduSkillBridge](https://github.com/coldworld22/Skillbridge) | Education platform: classes, tutorials, marketplace, multi-role dashboards | Node.js, Next.js, PostgreSQL, Docker |
-| [Odoo WhatsApp integration](https://github.com/coldworld22/odoo-whatsapp-integration) | Odoo module for WhatsApp Business (Meta Cloud API) | Python, Odoo |
+| [Cognexa](https://github.com/coldworld22/Cognexa-security-ai-lab) | Self-hosted AI workspace with RAG, role-based access and audit logs | TypeScript, Express, Next.js, pgvector, Redis, Docker |
+| [SkillBridge](https://github.com/coldworld22/Skillbridge) | Multi-tenant learning and commerce platform: classes, subscriptions, payments, messaging | Node.js, Express, Next.js, PostgreSQL, Redis, Docker |
+| [WhatsApp for Odoo](https://github.com/coldworld22/odoo-whatsapp-integration) | Published Odoo app for WhatsApp Business: invoices, campaigns, inbox, delivery tracking | Python, Odoo, Meta Cloud API |
 
-Most of my professional work (Asir government portals, ERP systems) lives in private client repositories.
+Most of my professional work (government portals, ERP systems) is in private client repositories.
 
-### Currently
+### Open source
 
-- Open source: merged [PR #169](https://github.com/accordproject/template-engine/pull/169) to Accord Project template-engine (regression tests); [PR #947](https://github.com/accordproject/template-playground/pull/947) under review
-- Learning: system design, Kafka
+- [accordproject/template-engine #169](https://github.com/accordproject/template-engine/pull/169) — merged: regression tests for ordered-list rendering
+- [accordproject/template-playground #947](https://github.com/accordproject/template-playground/pull/947) — in review
 
 📫 ayman4work44@gmail.com
