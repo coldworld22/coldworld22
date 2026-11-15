@@ -36,6 +36,7 @@ I build REST APIs and integrations for Saudi government and enterprise platforms
 |---|---|---|
 | [Citizen Services API](https://github.com/coldworld22/citizen-services-api) | Government e-services backend: OTP sign-in, role-based access, request workflow, audit trail, AWS deployment | Java 21, Spring Boot 3, PostgreSQL, Testcontainers, Docker, Terraform (ECS, RDS) |
 | [PetClinic on Google Cloud](https://github.com/coldworld22/spring-petclinic) | Spring PetClinic made production-ready on GCP with no app changes: private database, secrets, keyless CI/CD | Cloud Run, Cloud SQL, Secret Manager, Terraform, Workload Identity Federation |
+| [Integration Gateway](https://github.com/coldworld22/integration-gateway) | Receives signed Stripe and WhatsApp webhooks, stores each once and delivers it to Kafka reliably (outbox, retries, replay) | Java 21, Spring Boot 3, MongoDB, Kafka, Testcontainers |
 | [Cognexa](https://github.com/coldworld22/Cognexa-security-ai-lab) | AI workspace with RAG, role-based access and audit logs; runs on local models or on Azure | TypeScript, Express, Next.js, pgvector, Azure OpenAI, Container Apps, Terraform |
 | [SkillBridge](https://github.com/coldworld22/Skillbridge) | Multi-tenant learning and commerce platform: classes, subscriptions, payments, messaging | Node.js, Express, Next.js, PostgreSQL, Redis, Docker |
 | [WhatsApp for Odoo](https://github.com/coldworld22/odoo-whatsapp-integration) | Published Odoo app for WhatsApp Business: invoices, campaigns, inbox, delivery tracking | Python, Odoo, Meta Cloud API |
