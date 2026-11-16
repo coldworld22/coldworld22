@@ -40,7 +40,8 @@ I build REST APIs and integrations for Saudi government and enterprise platforms
 | [LLM Gateway](https://github.com/coldworld22/llm-gateway) | One OpenAI-compatible API in front of OpenAI, Azure OpenAI and Ollama: fallback, PII masking, per-team limits, token budgets, cost tracking | Java 21, Spring Boot 3, PostgreSQL, Redis, Prometheus, Testcontainers |
 | [Cognexa](https://github.com/coldworld22/Cognexa-security-ai-lab) | AI workspace with RAG, role-based access and audit logs; runs on local models or on Azure | TypeScript, Express, Next.js, pgvector, Azure OpenAI, Container Apps, Terraform |
 | [SkillBridge](https://github.com/coldworld22/Skillbridge) | Multi-tenant learning and commerce platform: classes, subscriptions, payments, messaging | Node.js, Express, Next.js, PostgreSQL, Redis, Docker |
-| [WhatsApp for Odoo](https://github.com/coldworld22/odoo-whatsapp-integration) | Published Odoo app for WhatsApp Business: invoices, campaigns, inbox, delivery tracking | Python, Odoo, Meta Cloud API |
+| [Odoo Fleet Maintenance](https://github.com/coldworld22/odoo-fleet-maintenance) | Odoo 17 module: maintenance plans by km or date, automatic service and purchase orders, QWeb report, REST API for telematics | Python, Odoo ORM, Fleet, Purchase, QWeb, Odoo tests in CI |
+| [WhatsApp for Odoo](https://github.com/coldworld22/odoo-whatsapp-integration) | Published Odoo app for WhatsApp Business: invoices, campaigns, inbox, delivery tracking | Python, Odoo 15–19, Meta Cloud API, Odoo tests in CI |
 
 Most of my professional work (government portals, ERP systems) is in private client repositories.
 
