@@ -18,6 +18,7 @@ How I work: sit with the client, find the real problem behind the request, ship 
 | Project | What it is | Stack |
 |---|---|---|
 | [WhatsApp booking for a clinic group](https://github.com/coldworld22/fde-case-study) | A full engagement, from on-site discovery to handover: Arabic/English booking on WhatsApp, triage that sends emergencies to 997, Odoo sync that survives outages, pilot and rollout plan, runbook | Python, FastAPI, PostgreSQL, WhatsApp Cloud API, Odoo JSON-RPC, Docker |
+| [Gateways deploy](https://github.com/coldworld22/gateways-deploy) | How I ship services into a customer's environment: one hardened Helm chart, Compose with Prometheus/Grafana, and a Kubernetes end-to-end test proving webhooks reach Kafka and personal data never reaches the LLM | Kubernetes, Helm, kind, Docker Compose, Prometheus, Grafana |
 | [WhatsApp for Odoo](https://github.com/coldworld22/odoo-whatsapp-integration) | Published Odoo app for WhatsApp Business: invoices, campaigns, inbox, delivery tracking | Python, Odoo 15–19, Meta Cloud API, Odoo tests in CI |
 | [Odoo Fleet Maintenance](https://github.com/coldworld22/odoo-fleet-maintenance) | Odoo 17 module: maintenance plans by km or date, automatic service and purchase orders, REST API for telematics | Python, Odoo ORM, Fleet, Purchase, QWeb |
 
